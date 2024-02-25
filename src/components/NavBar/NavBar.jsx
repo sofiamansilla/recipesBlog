@@ -9,7 +9,7 @@ export const NavBar= ({
 
 }) => {
     return(  <nav>
-        <h1>Familiar Blog</h1>
+        <h1>Otterlicious: Nutritious Eats for the Wild Foodie</h1>
         <ul>
           <li><a href="#">This is us!</a></li>
           <li><a href="#">What we do?</a></li>

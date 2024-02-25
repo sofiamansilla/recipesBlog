@@ -17,8 +17,8 @@ const buttonClickHandler = (e) => {
   return(
     
     <Fragment>
-      <button name="btn1" onClick={buttonClickHandler}>Show message</button>
-      <Header appName="The Chilas" href= 'http://www.google.com' alt ='Ir a The Chilas' showLink={showLink}> </Header>  
+      <button name="btn1" onClick={buttonClickHandler}>Go to Otterlicious</button>
+      <Header appName="Otterlicious" href= 'http://www.otterlicious.com' alt ='Link to "Otterlicious web page"' showLink={showLink}> </Header>  
       <Body></Body>
       <Footer></Footer>
       
